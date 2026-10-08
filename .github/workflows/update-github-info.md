@@ -19,6 +19,7 @@ safe-outputs:
   missing-tool: false
   missing-data: false
   noop: false
+  report-incomplete: false
   create-pull-request:
     draft: false
     allowed-files:
